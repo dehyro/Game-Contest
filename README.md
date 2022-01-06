@@ -4,11 +4,11 @@ This is a simple game quiz where you can introduce your name and save your score
 
 There are 5 categories in the  questionnaire, and each one gives an amount of coins: 
 
-The category "Very Easy" gives 6 coins
-The category "Easy" gives 12 coins
-The category "Medium" gives 18 coins
-The category "Hard" gives 24 coins
-The category "Very Hard" gives 30 coins
+The category "Very Easy" gives 6 coins. 
+The category "Easy" gives 12 coins. 
+The category "Medium" gives 18 coins. 
+The category "Hard" gives 24 coins. 
+The category "Very Hard" gives 30 coins. 
 
 You can end the game before answering any question and save your current score.
 And also, if you don't answer correctly you will lose your accumulated score. 
